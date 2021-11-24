@@ -72,8 +72,12 @@ These are frameworks that extend .NET platform to provide additional functionali
 ### Other Niceties..
 - **Nuget**: a package manager for .NET
 
-.NET 5
-ASP.NET: ASP.NET Core to match with .NET Core 
+### Anatomy of C# code
+```
+Namespace
+    Types (class, structs, enums, delegates, interface)
+        Type members (variables, methods, events)
+```
 
 ## [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/using-namespaces)
 - They organize large code projects.
