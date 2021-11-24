@@ -92,3 +92,5 @@ Namespace
 - [What is .NET?](https://www.codecademy.com/articles/what-is-net)
 - [Learn C# in interactive way](https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07)
 - [Learn C# from video](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+- [Learn basics of Vb](https://www.tutorialspoint.com/vb.net/index.htm)
+- [Structure of Vb program](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/structure-of-a-visual-basic-program)
