@@ -33,3 +33,11 @@ VBA - used to program in macros for excel.
 VB.Net - Server-side programming language.
 
 C# developed by Ander heilsberg, he was working at AT&T Bell Labs
+
+
+.Net Framework                                     .Net core
+Windows only			all platforms
+IDE - Visual Studio			IDE - Visual Studio (all versions)
+                 Community		        - VSCode 	
+	Professional
+	Enterprise

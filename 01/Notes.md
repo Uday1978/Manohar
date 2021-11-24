@@ -33,7 +33,7 @@
 - `cd Cyient-locusit/`
 - `cd 01/`
  
- ### Demo to create a **Hello World** console app
+ ### Demo to create a **Hello World** console app in [VSCode](https://code.visualstudio.com/docs/languages/dotnet)
  - navigate to respective folder using `cd <path>`
  - use command `dotnet --version` to check if .Net 6 is installed. It should return like this `6.0.100-preview.6.21355.2`
  - use command `dotnet new console -o 'HelloWorld'` to create a new console app
